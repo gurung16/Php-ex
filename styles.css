@@ -1,0 +1,42 @@
+body{
+  box-sizing: border-box;
+  font-style:arial;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+input[type=text]{
+  display: block;
+  width:80%;
+  padding:20px;
+  font-size: 16px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type=submit]{
+  display: block;
+  font-size: 16px;
+  width:30%;
+  padding:20px;
+  color:white;
+  background-color:green;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.test{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+th,td {
+  padding: 5px;
+}
